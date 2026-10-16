@@ -8,14 +8,14 @@ Python · C# / WPF · React · TypeScript · Electron · SQLite
 
 ## 作品集 / Portfolio
 
-| 项目 | 解决的问题 | 技术栈 | 源码 |
-| --- | --- | --- | --- |
-| **MathCode · 数学 × 编程** | 把读题、知识点回顾、C++ 编码与练习复盘放在一个离线桌面工作区。 | Python · SQLite · WPF · WebView2 · JavaScript | [查看项目](https://github.com/YUANYZ-cell/mathcode) |
-| **Report Formatter · 报告格式化器** | 用可解释的规则检查并整理实验报告中的图表、公式编号与引用。 | Python · Streamlit · python-docx · PyMuPDF | [查看项目](https://github.com/YUANYZ-cell/report-formatter) |
-| **My Vocabulary · 我的词汇本** | 将英语词汇、固定搭配、阅读素材与生活口语统一收录并分开复习。 | Python · SQLite · WPF · WebView2 · JavaScript | [查看项目](https://github.com/YUANYZ-cell/my-vocabulary) |
-| **Desktop Dynamic Island · 桌面灵动岛** | 用轻量胶囊与展开面板查看电脑负载，并在持续越界时提醒。 | C# · .NET 8 · WPF · Win32 · NVIDIA NVML | [查看项目](https://github.com/YUANYZ-cell/desktop-dynamic-island) |
-| **Family Menu · 家常一桌** | 根据就餐人数、食材、口味与近期用餐记录生成一桌家常菜。 | React · TypeScript · Vite · Dexie / IndexedDB · Vitest | [查看项目](https://github.com/YUANYZ-cell/family-menu) |
-| **Arpeggio · 吉他曲谱档案馆** | 把图片或 PDF 曲谱整理成可检索、可阅读、可演奏的本地档案。 | Electron · React · TypeScript · SQLite / sql.js · Vitest | [查看项目](https://github.com/YUANYZ-cell/arpeggio) |
+| 项目源码 | 解决的问题 |
+| --- | --- |
+| [**MathCode · 数学 × 编程**](https://github.com/YUANYZ-cell/mathcode) | 把读题、知识点回顾、C++ 编码与练习复盘放在一个离线桌面工作区。 |
+| [**Report Formatter · 报告格式化器**](https://github.com/YUANYZ-cell/report-formatter) | 用可解释的规则检查并整理实验报告中的图表、公式编号与引用。 |
+| [**My Vocabulary · 我的词汇本**](https://github.com/YUANYZ-cell/my-vocabulary) | 将英语词汇、固定搭配、阅读素材与生活口语统一收录并分开复习。 |
+| [**Desktop Dynamic Island · 桌面灵动岛**](https://github.com/YUANYZ-cell/desktop-dynamic-island) | 用轻量胶囊与展开面板查看电脑负载，并在持续越界时提醒。 |
+| [**Family Menu · 家常一桌**](https://github.com/YUANYZ-cell/family-menu) | 根据就餐人数、食材、口味与近期用餐记录生成一桌家常菜。 |
+| [**Arpeggio · 吉他曲谱档案馆**](https://github.com/YUANYZ-cell/arpeggio) | 把图片或 PDF 曲谱整理成可检索、可阅读、可演奏的本地档案。 |
 
 ## 项目亮点
 

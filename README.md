@@ -9,7 +9,7 @@ Python · C++ · C# / WPF · TypeScript / React · Electron · SQLite
 
 | 项目 | 简介 |
 | --- | --- |
-| [**DengFOC USB Native Tool · 电机上位机**](https://github.com/YUANYZ-cell/dengfoc-usb-native-tool) | 实习中的 Python USB Native 只读诊断工具，附离线测试、参数配置与配套控制代码。 |
+| [**DengFOC Motor Workbench · 电机调试工作台**](https://github.com/YUANYZ-cell/dengfoc-usb-native-tool) | 整合参数校准、开环/闭环控制、USB 诊断与日志分析，附调试指南和原始证据。 |
 | [**MathCode · 数学 × 编程**](https://github.com/YUANYZ-cell/mathcode) | 将数学知识、C++ 编码、练习与复盘放在一个离线学习工作区。 |
 | [**Report Formatter · 报告格式化器**](https://github.com/YUANYZ-cell/report-formatter) | 按规则检查实验报告中的图表、公式编号与引用，支持 DOCX 格式整理和 PDF 分析。 |
 | [**AI Prompt Handbook · AI 提示词手册**](https://github.com/YUANYZ-cell/ai-prompt-handbook) | 可离线检索的提示词库，包含分类、效果预览与 Windows 桌面入口。 |
